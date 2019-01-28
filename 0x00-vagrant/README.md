@@ -1,0 +1,1 @@
+Hi! On this directory you can find the file which contains the answer to "What happens if you use the 'uname' command without any option?"
