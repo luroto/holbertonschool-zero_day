@@ -1,4 +1,4 @@
-# 0x00. Vagrant
+# holbertonschool-zero_day
 
 ## Description
 This is the first repository for the projects  we faced at Holberton School's Foundations program. The questions to answer that day were:
