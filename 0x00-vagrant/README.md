@@ -1,7 +1,7 @@
 # 0x00. Vagrant
 
 ## Description
-This is the first repository for the projects  we faced at Holberton School's Foundations program. The questions to answer that day were:
+This is the very first project we faced at Holberton School's Foundations program. The questions to answer that day were:
 
 * What is a zero-day
 * What is a virtual machine
@@ -24,13 +24,8 @@ This is the first repository for the projects  we faced at Holberton School's Fo
 
 ---
 
-### [0. Create and setup your Git and Github account](./README.md)
-* Git is installed on the iMacs provided by Holberton, but if you’re using another computer, you might have to install it yourself.
-
-
 ### [1. Hello Ubuntu](./0-hello_ubuntu)
-* Inside the holbertonschool-zero_day repo, create a new directory called 0x00-vagrant. Add a README.md file to this directory. 
-
+* What does the command uname prints?
 ---
 
 ## Author
